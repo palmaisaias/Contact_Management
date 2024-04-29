@@ -1,0 +1,4 @@
+jane.doe@email.com::Jane Doe::714 111 2222::It's Jane!
+isaias@email.com::Isaias Palma::7142223333::It's me!
+coding@temple.com::Coding Temple::323 888 7777::going into week 4
+nobody@none.com::Mr. Nobody::000 000 0000::
