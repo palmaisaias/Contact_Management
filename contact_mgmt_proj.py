@@ -75,6 +75,8 @@ def note_validate(new_note):    #---created to validate notes when user decides 
     
 
 def add_cont(contacts): #--should allow user to add a contact
+    if contacts is None:    #---last minute catch. lets it run if file doesnt exist!!
+        contacts = {}
     os.system('clear')
     print()
     print('Adding NEW contact:')
